@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+header {
+  background: #4caf50;
+  color: white;
+  padding: 1em 0;
+}
+
+main {
+  padding: 2em;
+}
+
+#quotes-container {
+  margin-top: 2em;
+  font-size: 1.2em;
+  color: #333;
+}
+
+footer {
+  margin-top: 2em;
+  padding: 1em;
+  background: #f4f4f4;
+  color: #333;
+}
